@@ -1,0 +1,17 @@
+/*---------------- File contains declarations of: -----------------------------
+	* Functions to obtain initial values.
+	* Functions to interact with the user.
+	* Functions to manage output.
+
+Function definitions are implemented in initialize.c file in the main folder.
+-------------------------------------------------------------------------------*/
+
+#ifndef Initialize
+#define Initialize
+
+int request_input();
+int request_method();
+extern double h;
+int initialize_values(double *x, double *y, double *h, int *range);
+#endif
+

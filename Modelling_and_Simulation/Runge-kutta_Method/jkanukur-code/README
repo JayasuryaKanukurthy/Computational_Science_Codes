@@ -1,0 +1,19 @@
+1. Program tries to solve the coupled ODEs given in HW1 of CSI 701.
+
+2. There are two ways to run the program:
+	i. Automatic - just run
+		 $make
+	ii. Interactive - User can enter values and see the output data, but must run gnuplot using the command
+		$./main
+		$gnuplot gnuplot_commands
+	
+		This will generate the graph.
+
+3. The main driver, numeric method functions and ODE functions are in the respective files. Eg:
+	runge-kutta - rungekutta.c
+	leap-frog - leap-frog.c
+	
+   The input_output.c only has the supporting I/O functions.
+   
+4. All outputs are in "outputs" directory
+

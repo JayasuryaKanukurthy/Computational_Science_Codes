@@ -1,0 +1,11 @@
+gcc -g -o main *.c -lm
+./main < inputs
+Enter:
+
+Length (Lx) and Width (Ly) of the tissue:
+Needle Position (xn) and (yn): 
+Needle Size (sx) and (sy): 
+Blood Vessel position (vx) and (vy): 
+Blood Vessel width in x and y direction: 
+Minimum and Maximum blood velocity in the vein: 
+Tissue, Needle and Burn Temperature:

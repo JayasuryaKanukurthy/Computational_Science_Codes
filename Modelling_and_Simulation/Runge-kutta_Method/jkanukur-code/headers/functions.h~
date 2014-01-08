@@ -1,0 +1,20 @@
+/*----------------------- File contains:  ----------------------------------
+	* Mathematical ODEs for Conventional and Guerilla Models
+	* Reinforcement functions of the respective models
+	* Empty function stub that can be used to test implemented numerical methods.
+	
+The functions definitions are implemented in functions.c in the main folder.
+----------------------------------------------------------------------------*/
+#ifndef ODE_Functions
+#define ODE_Functions
+
+#ifndef GLOBAL_VALUES_FUNCTIONS
+#define GLOBAL_VALUES_FUNCTIONS
+extern int model, range;
+extern double h,a,b,c,d;
+#endif
+
+double function(double x, double y);
+
+#endif
+

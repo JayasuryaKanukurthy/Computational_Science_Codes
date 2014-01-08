@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#ifndef GUERILLA
+#define GUERILLA
+double runge_kutta(double x_var, double t_var, double h), function(double x_var, double t_var);
+double reinforcement_f(double h), reinforcement_g(double h);
+void conventional_warfare();
+#endif

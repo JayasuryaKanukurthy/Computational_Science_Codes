@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#ifndef CONVENTIONAL
+#define CONVENTIONAL
+double reinforcement_f(double h), reinforcement_g(double h);
+double runge_kutta(double x_var, double t_var, double h);
+double function(double x_var, double t_var);
+void conventional_warfare();
+extern double x,y,h, a,b;
+int range, x_or_y;
+#endif
+

@@ -1,0 +1,8 @@
+Model = 1
+X_initial = 300
+Y_initial = 300
+X_combat effectiveness = 0.5
+Y_combat effectiveness = 0.05
+time_step = 0.005
+range = 4
+

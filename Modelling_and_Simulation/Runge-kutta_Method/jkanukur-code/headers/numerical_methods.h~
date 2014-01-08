@@ -1,0 +1,19 @@
+/*----------------------- File contains: ------------------------------------
+	Function declarations of numerical methods used
+	
+Function definition can be found in numerical_methods.c file in the main folder.
+-----------------------------------------------------------------------------*/
+
+#ifndef Numerical_Methods
+#define Numerical_Methods
+
+extern int method;
+/*extern double x,y,h;*/
+
+void choose_method(double x, double y, double h);
+double euler(double x,double y,double h);
+double runge_kutta(double x, double y, double h);
+double leap_frog();	/*TODO: Update Stub after implementing leap-frog method*/
+
+#endif
+
