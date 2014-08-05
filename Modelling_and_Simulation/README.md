@@ -21,4 +21,4 @@ Elliptic_PDE:		Uses Finite Element Method to find gradient, velocity and pressur
 Cellular_Automata:	Simulates the growth of skin cancer using simple rules for cell transition from living to canceerous condition or a dead cell.
 					Language: C		OS: Linux		Visualization:	MATLAB
 					
-More detailed information can be found in the relevant document in the project folders.
+More detailed information can be found in the relevant document in the project folders. 
