@@ -1,0 +1,10 @@
+set terminal png
+set output "WhiteMalefa_fb.png"
+set multiplot
+set size 1,0.5
+set origin 0,0.0
+set view 0,0,1,2
+splot "WhiteMale_fa.txt", "WhiteMale_fb.txt"
+unset multiplot
+unset size
+unset origin

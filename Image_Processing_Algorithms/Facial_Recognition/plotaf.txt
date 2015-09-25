@@ -1,0 +1,10 @@
+set terminal png
+set output "diff_in_groups.png"
+set multiplot
+set size 1,0.5
+set origin 0,0.0
+set view 0,0,1,2
+splot "AsianFemale.txt","WhiteMale.txt"
+"unset multiplot
+unset size
+unset origin

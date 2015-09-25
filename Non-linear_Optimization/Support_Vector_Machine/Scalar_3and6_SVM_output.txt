@@ -1,0 +1,1810 @@
+		Newton Step: 1	||Grad PHI|| = 183261.787961
+		Newton Step: 2	||Grad PHI|| = 169435.459972
+		Newton Step: 3	||Grad PHI|| = 30555.209345
+		Newton Step: 4	||Grad PHI|| = 798.812581
+		Newton Step: 5	||Grad PHI|| = 236.709732
+		Newton Step: 6	||Grad PHI|| = 22.832927
+		Newton Step: 7	||Grad PHI|| = 2.570379
+		Newton Step: 8	||Grad PHI|| = 0.463567
+		Newton Step: 9	||Grad PHI|| = 0.047454
+
+NRAL =  1; ||Grad L|| = 0.047454;
+||g(x)|| = 0.002624;max(-c(x),0): 0.009054; 
+Complementarity: 0.032789; Newton Steps= 9; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 13.303328
+		Newton Step: 2	||Grad PHI|| = 1.654038
+		Newton Step: 3	||Grad PHI|| = 0.086405
+		Newton Step: 4	||Grad PHI|| = 0.004561
+
+NRAL =  2; ||Grad L|| = 0.004561;
+||g(x)|| = 0.000131;max(-c(x),0): 0.003449; 
+Complementarity: 0.005718; Newton Steps= 4; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.265053
+		Newton Step: 2	||Grad PHI|| = 0.006298
+
+NRAL =  3; ||Grad L|| = 0.006298;
+||g(x)|| = 0.000180;max(-c(x),0): 0.003155; 
+Complementarity: 0.002730; Newton Steps= 2; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.038804
+		Newton Step: 2	||Grad PHI|| = 0.000417
+
+NRAL =  4; ||Grad L|| = 0.000417;
+||g(x)|| = 0.000165;max(-c(x),0): 0.002051; 
+Complementarity: 0.001747; Newton Steps= 2; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.011657
+
+NRAL =  5; ||Grad L|| = 0.011657;
+||g(x)|| = 0.000133;max(-c(x),0): 0.001975; 
+Complementarity: 0.001292; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.005028
+
+NRAL =  6; ||Grad L|| = 0.005028;
+||g(x)|| = 0.000100;max(-c(x),0): 0.001799; 
+Complementarity: 0.000976; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.002165
+
+NRAL =  7; ||Grad L|| = 0.002165;
+||g(x)|| = 0.000073;max(-c(x),0): 0.002084; 
+Complementarity: 0.000751; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.001077
+
+NRAL =  8; ||Grad L|| = 0.001077;
+||g(x)|| = 0.000051;max(-c(x),0): 0.002224; 
+Complementarity: 0.000586; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000589
+
+NRAL =  9; ||Grad L|| = 0.000589;
+||g(x)|| = 0.000036;max(-c(x),0): 0.001995; 
+Complementarity: 0.000463; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000343
+
+NRAL =  10; ||Grad L|| = 0.000343;
+||g(x)|| = 0.000025;max(-c(x),0): 0.001733; 
+Complementarity: 0.000381; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000218
+
+NRAL =  11; ||Grad L|| = 0.000218;
+||g(x)|| = 0.000017;max(-c(x),0): 0.001431; 
+Complementarity: 0.000337; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000141
+
+NRAL =  12; ||Grad L|| = 0.000141;
+||g(x)|| = 0.000012;max(-c(x),0): 0.001134; 
+Complementarity: 0.000295; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000090
+
+NRAL =  13; ||Grad L|| = 0.000090;
+||g(x)|| = 0.000009;max(-c(x),0): 0.000884; 
+Complementarity: 0.000255; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000057
+
+NRAL =  14; ||Grad L|| = 0.000057;
+||g(x)|| = 0.000007;max(-c(x),0): 0.000688; 
+Complementarity: 0.000219; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000036
+
+NRAL =  15; ||Grad L|| = 0.000036;
+||g(x)|| = 0.000005;max(-c(x),0): 0.000538; 
+Complementarity: 0.000186; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000024
+
+NRAL =  16; ||Grad L|| = 0.000024;
+||g(x)|| = 0.000004;max(-c(x),0): 0.000837; 
+Complementarity: 0.000158; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000016
+
+NRAL =  17; ||Grad L|| = 0.000016;
+||g(x)|| = 0.000004;max(-c(x),0): 0.001147; 
+Complementarity: 0.000134; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000011
+
+NRAL =  18; ||Grad L|| = 0.000011;
+||g(x)|| = 0.000003;max(-c(x),0): 0.001395; 
+Complementarity: 0.000113; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000007
+
+NRAL =  19; ||Grad L|| = 0.000007;
+||g(x)|| = 0.000003;max(-c(x),0): 0.001590; 
+Complementarity: 0.000095; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000005
+
+NRAL =  20; ||Grad L|| = 0.000005;
+||g(x)|| = 0.000002;max(-c(x),0): 0.001738; 
+Complementarity: 0.000080; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000004
+
+NRAL =  21; ||Grad L|| = 0.000004;
+||g(x)|| = 0.000002;max(-c(x),0): 0.001845; 
+Complementarity: 0.000068; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000003
+
+NRAL =  22; ||Grad L|| = 0.000003;
+||g(x)|| = 0.000002;max(-c(x),0): 0.001915; 
+Complementarity: 0.000057; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000002
+
+NRAL =  23; ||Grad L|| = 0.000002;
+||g(x)|| = 0.000001;max(-c(x),0): 0.001949; 
+Complementarity: 0.000052; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000001
+
+NRAL =  24; ||Grad L|| = 0.000001;
+||g(x)|| = 0.000001;max(-c(x),0): 0.001949; 
+Complementarity: 0.000048; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000001
+
+NRAL =  25; ||Grad L|| = 0.000001;
+||g(x)|| = 0.000001;max(-c(x),0): 0.001919; 
+Complementarity: 0.000044; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000001
+
+NRAL =  26; ||Grad L|| = 0.000001;
+||g(x)|| = 0.000000;max(-c(x),0): 0.001859; 
+Complementarity: 0.000040; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000001
+
+NRAL =  27; ||Grad L|| = 0.000001;
+||g(x)|| = 0.000000;max(-c(x),0): 0.001774; 
+Complementarity: 0.000037; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000001
+
+NRAL =  28; ||Grad L|| = 0.000001;
+||g(x)|| = 0.000000;max(-c(x),0): 0.001667; 
+Complementarity: 0.000034; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000002
+
+NRAL =  29; ||Grad L|| = 0.000002;
+||g(x)|| = 0.000000;max(-c(x),0): 0.001545; 
+Complementarity: 0.000032; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000003
+
+NRAL =  30; ||Grad L|| = 0.000003;
+||g(x)|| = 0.000000;max(-c(x),0): 0.001413; 
+Complementarity: 0.000030; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000003
+
+NRAL =  31; ||Grad L|| = 0.000003;
+||g(x)|| = 0.000001;max(-c(x),0): 0.001277; 
+Complementarity: 0.000028; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000003
+
+NRAL =  32; ||Grad L|| = 0.000003;
+||g(x)|| = 0.000001;max(-c(x),0): 0.001142; 
+Complementarity: 0.000026; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000003
+
+NRAL =  33; ||Grad L|| = 0.000003;
+||g(x)|| = 0.000001;max(-c(x),0): 0.001013; 
+Complementarity: 0.000024; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000003
+
+NRAL =  34; ||Grad L|| = 0.000003;
+||g(x)|| = 0.000001;max(-c(x),0): 0.000892; 
+Complementarity: 0.000023; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000003
+
+NRAL =  35; ||Grad L|| = 0.000003;
+||g(x)|| = 0.000001;max(-c(x),0): 0.000782; 
+Complementarity: 0.000022; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000002
+
+NRAL =  36; ||Grad L|| = 0.000002;
+||g(x)|| = 0.000001;max(-c(x),0): 0.000683; 
+Complementarity: 0.000021; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000002
+
+NRAL =  37; ||Grad L|| = 0.000002;
+||g(x)|| = 0.000001;max(-c(x),0): 0.000596; 
+Complementarity: 0.000020; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000002
+
+NRAL =  38; ||Grad L|| = 0.000002;
+||g(x)|| = 0.000001;max(-c(x),0): 0.000519; 
+Complementarity: 0.000019; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000001
+
+NRAL =  39; ||Grad L|| = 0.000001;
+||g(x)|| = 0.000001;max(-c(x),0): 0.000451; 
+Complementarity: 0.000018; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000001
+
+NRAL =  40; ||Grad L|| = 0.000001;
+||g(x)|| = 0.000001;max(-c(x),0): 0.000393; 
+Complementarity: 0.000017; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000001
+
+NRAL =  41; ||Grad L|| = 0.000001;
+||g(x)|| = 0.000001;max(-c(x),0): 0.000343; 
+Complementarity: 0.000016; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000001
+
+NRAL =  42; ||Grad L|| = 0.000001;
+||g(x)|| = 0.000001;max(-c(x),0): 0.000299; 
+Complementarity: 0.000015; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  43; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000001;max(-c(x),0): 0.000261; 
+Complementarity: 0.000015; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  44; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000001;max(-c(x),0): 0.000229; 
+Complementarity: 0.000014; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  45; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000201; 
+Complementarity: 0.000013; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  46; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000176; 
+Complementarity: 0.000013; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  47; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000174; 
+Complementarity: 0.000012; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  48; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000175; 
+Complementarity: 0.000012; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  49; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000175; 
+Complementarity: 0.000011; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  50; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000175; 
+Complementarity: 0.000011; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  51; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000176; 
+Complementarity: 0.000011; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  52; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000175; 
+Complementarity: 0.000011; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  53; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000175; 
+Complementarity: 0.000011; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  54; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000175; 
+Complementarity: 0.000011; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  55; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000174; 
+Complementarity: 0.000010; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  56; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000173; 
+Complementarity: 0.000010; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  57; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000172; 
+Complementarity: 0.000010; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  58; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000171; 
+Complementarity: 0.000010; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  59; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000170; 
+Complementarity: 0.000010; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  60; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000169; 
+Complementarity: 0.000010; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  61; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000167; 
+Complementarity: 0.000009; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  62; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000166; 
+Complementarity: 0.000009; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  63; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000164; 
+Complementarity: 0.000009; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  64; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000162; 
+Complementarity: 0.000009; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  65; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000160; 
+Complementarity: 0.000009; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  66; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000159; 
+Complementarity: 0.000009; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  67; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000157; 
+Complementarity: 0.000008; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  68; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000155; 
+Complementarity: 0.000008; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  69; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000153; 
+Complementarity: 0.000008; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  70; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000151; 
+Complementarity: 0.000008; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  71; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000148; 
+Complementarity: 0.000008; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  72; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000146; 
+Complementarity: 0.000008; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  73; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000144; 
+Complementarity: 0.000008; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  74; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000142; 
+Complementarity: 0.000007; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  75; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000140; 
+Complementarity: 0.000007; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  76; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000138; 
+Complementarity: 0.000007; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  77; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000135; 
+Complementarity: 0.000007; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  78; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000133; 
+Complementarity: 0.000007; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  79; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000131; 
+Complementarity: 0.000007; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  80; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000129; 
+Complementarity: 0.000007; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  81; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000127; 
+Complementarity: 0.000007; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  82; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000124; 
+Complementarity: 0.000006; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  83; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000122; 
+Complementarity: 0.000006; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  84; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000120; 
+Complementarity: 0.000006; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  85; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000118; 
+Complementarity: 0.000006; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  86; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000116; 
+Complementarity: 0.000006; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  87; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000114; 
+Complementarity: 0.000006; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  88; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000111; 
+Complementarity: 0.000006; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  89; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000109; 
+Complementarity: 0.000006; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  90; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000107; 
+Complementarity: 0.000006; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  91; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000105; 
+Complementarity: 0.000005; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  92; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000103; 
+Complementarity: 0.000005; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  93; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000101; 
+Complementarity: 0.000005; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  94; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000099; 
+Complementarity: 0.000005; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  95; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000097; 
+Complementarity: 0.000005; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  96; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000095; 
+Complementarity: 0.000005; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  97; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000093; 
+Complementarity: 0.000005; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  98; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000091; 
+Complementarity: 0.000005; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  99; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000089; 
+Complementarity: 0.000005; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  100; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000088; 
+Complementarity: 0.000005; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  101; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000086; 
+Complementarity: 0.000005; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  102; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000084; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  103; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000082; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  104; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000080; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  105; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000079; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  106; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000077; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  107; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000075; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  108; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000074; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  109; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000072; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  110; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000071; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  111; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000069; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  112; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000067; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  113; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000066; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  114; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000064; 
+Complementarity: 0.000004; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  115; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000063; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  116; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000062; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  117; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000060; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  118; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000059; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  119; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000057; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  120; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000056; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  121; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000055; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  122; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000054; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  123; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000052; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  124; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000051; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  125; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000050; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  126; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000049; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  127; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000048; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  128; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000046; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  129; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000045; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  130; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000044; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  131; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000043; 
+Complementarity: 0.000003; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  132; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000042; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  133; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000041; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  134; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000040; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  135; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000039; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  136; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000038; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  137; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000037; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  138; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000036; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  139; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000035; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  140; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000035; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  141; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000034; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  142; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000033; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  143; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000032; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  144; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000031; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  145; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000031; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  146; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000030; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  147; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000029; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  148; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000028; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  149; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000028; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  150; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000027; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  151; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000026; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  152; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000026; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  153; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000025; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  154; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000024; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  155; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000024; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  156; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000023; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  157; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000023; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  158; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000022; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  159; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000021; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  160; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000021; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  161; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000020; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  162; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000020; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  163; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000019; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  164; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000019; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  165; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000018; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  166; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000018; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  167; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000017; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  168; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000017; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  169; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000017; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  170; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000016; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  171; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000016; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  172; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000015; 
+Complementarity: 0.000002; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  173; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000015; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  174; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000015; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  175; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000014; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  176; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000014; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  177; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000013; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  178; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000013; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  179; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000013; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  180; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000012; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  181; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000012; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  182; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000012; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  183; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000011; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  184; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000011; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  185; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000011; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  186; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000011; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  187; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000010; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  188; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000010; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  189; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000010; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  190; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000010; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  191; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000009; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  192; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000009; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  193; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000009; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  194; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000009; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  195; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000008; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  196; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000008; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  197; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000008; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  198; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000008; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  199; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000008; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  200; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000007; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  201; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000007; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  202; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000007; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  203; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000007; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  204; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000007; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  205; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000006; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  206; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000006; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  207; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000006; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  208; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000006; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  209; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000006; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  210; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000006; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  211; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000006; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  212; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000005; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  213; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000005; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  214; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000005; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  215; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000005; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  216; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000005; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  217; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000005; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  218; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000005; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  219; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000005; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  220; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000004; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  221; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000004; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  222; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000004; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  223; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000004; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  224; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000004; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  225; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000004; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  226; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000004; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  227; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000004; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  228; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000004; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  229; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000004; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  230; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  231; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  232; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  233; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  234; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  235; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  236; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  237; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  238; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  239; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  240; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  241; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  242; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  243; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000003; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  244; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  245; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  246; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  247; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  248; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  249; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  250; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  251; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  252; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  253; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  254; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  255; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  256; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 
+
+
+		Newton Step: 1	||Grad PHI|| = 0.000000
+
+NRAL =  257; ||Grad L|| = 0.000000;
+||g(x)|| = 0.000000;max(-c(x),0): 0.000002; 
+Complementarity: 0.000001; Newton Steps= 1; ; 

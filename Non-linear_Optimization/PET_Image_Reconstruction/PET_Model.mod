@@ -1,0 +1,21 @@
+param n;
+param N;
+
+set voxels := {1..n};
+set lines := {1..N};
+
+param y{lines};
+
+param C{voxels,lines};
+
+var x{voxels} >=0, :=1;
+
+var y_cap{j in lines} = sum {i in voxels} C[i,j]*x[i];
+
+var logy{j in lines} = log(y_cap[j]);
+
+maximize X_cap: sum{j in lines} (-(y_cap[j])+y[j]*logy[j]);
+
+data PET_Data_1.dat;
+solve;
+display x > 'x_output.txt';
