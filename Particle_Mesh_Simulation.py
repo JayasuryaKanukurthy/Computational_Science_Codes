@@ -188,6 +188,8 @@ class ParticleMesh(object):
             sum_norm = sqrt(sum_norm)/(xdim*ydim)
   
     def show_grid(self):
+        '''Displays grid potential and the particle positions on the mesh'''
+        
         X,Y = np.meshgrid(range(0,self.size[0]),range(0,self.size[1]))
         
         plot.figure(1)
