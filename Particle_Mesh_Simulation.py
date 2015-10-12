@@ -22,7 +22,7 @@ __author__="Jayasurya Kanukurthy"
 import numpy as np
 from numpy.random import uniform as random
 import matplotlib.pyplot as plot
-from math import sqrt
+from math import sqrt,ceil,floor
 import matplotlib.animation as animation
 
 class ParticleMesh(object):
@@ -50,18 +50,20 @@ class ParticleMesh(object):
                     left_boundary/right_boundary - float:: boundary values
         """
     
-    def __init__(self, size=(500,500),num_particles=200,left_boundary=-50,right_boundary=50):
+    def __init__(self, size=(100,100),num_particles=200,left_boundary=-50,right_boundary=50):
         
         """Initializer: Initializing mesh and random particles"""
         
         self.size = size
-        self.particles = [Particles(box=(self.size[0],self.size[1]), 
-                                    max_charge=5,max_mass=5) \
-                            for i in xrange(num_particles)]
         self.left_boundary = left_boundary
         self.right_boundary = right_boundary
         self.grid_potential =  np.zeros(size)
-        self.grid_potential = self.solve_grid_poisson()
+        self.particles = []
+        self.solve_grid_poisson()
+        self.particles = [Particles(box=(self.size[0],self.size[1]), 
+                            max_charge=5,max_mass=5) \
+                    for i in xrange(num_particles)]
+
         self.particle_paths = [(self.x,self.y)]
         
 
@@ -106,7 +108,14 @@ class ParticleMesh(object):
     @property
     def mass(self):
         return [p.mass*20 for p in self.particles]
-   
+        
+    @property
+    def forcex(self):
+        return [p.forcex for p in self.particles]
+    
+    @property
+    def forcey(self):
+        return [p.forcey for p in self.particles]
         
      #############     Defining methods     ############
      
@@ -119,10 +128,10 @@ class ParticleMesh(object):
             self.save_particle_positions()  #save if requried for plotting later on
     
 
-    def solve_grid_poisson(self, covergence_factor=0.01):
+    def solve_grid_poisson(self, covergence_factor=5e-4):
         '''Solves the poisson equation on grid for potential'''
         
-        potential=np.zeros(self.size,dtype=float)
+        #potential=np.zeros(self.size,dtype=float)
         charge=np.zeros(self.size,dtype=float)
         xdim = self.size[0]                           # index of X Boundary 
         ydim = self.size[1]                           # index of Y Boundary 
@@ -143,18 +152,17 @@ class ParticleMesh(object):
 
         ######    Applying Boundary Conditions on left and right ends    
         
-        potential[:,0] = self.left_boundary
-        potential[:,xdim-1] = self.right_boundary
+        self.grid_potential[:,0] = self.left_boundary
+        self.grid_potential[:,xdim-1] = self.right_boundary
         
         ######   Applying Neumann Boundary Conditions at top and bottom boundary
         
         for i in xrange(1,ydim):
             eta = (float(i)/self.size[1])
-            potential[0,i] = potential[0,i] + (1-eta)*self.left_boundary + eta*self.right_boundary
-            potential[ydim-1,i] = potential[ydim-1,i] + (1-eta)*self.left_boundary \
+            self.grid_potential[0,i] = self.grid_potential[0,i] + (1-eta)*self.left_boundary + eta*self.right_boundary
+            self.grid_potential[ydim-1,i] = self.grid_potential[ydim-1,i] + (1-eta)*self.left_boundary \
                                               + eta*self.right_boundary
                                               
-        phi = potential  #Just renaming variables
         rho = charge        
         
         #####   Solving the charge distribution on grid for potential field
@@ -167,20 +175,34 @@ class ParticleMesh(object):
             sum_norm = 0.0
             for i in xrange(1,xdim-1):
                 for j in xrange(1,ydim-1):
-                    phi_above = phi[i-1,j]
-                    phi_below = phi[i+1,j]
-                    phi_left = phi[i,j-1]
-                    phi_right = phi[i,j+1]                    
-                    Rij = (a*(phi_left+phi_right)+b*(phi_above+phi_below)+c*phi[i][j] - rho[i][j])/c; 
-                    phi[i,j] = phi[i,j]-omega*Rij
+                    phi_above = self.grid_potential[i-1,j]
+                    phi_below = self.grid_potential[i+1,j]
+                    phi_left = self.grid_potential[i,j-1]
+                    phi_right = self.grid_potential[i,j+1]                    
+                    Rij = (a*(phi_left+phi_right)+b*(phi_above+phi_below) \
+                           +c*self.grid_potential[i][j] - rho[i][j])/c; 
+                    self.grid_potential[i,j] = self.grid_potential[i,j]-omega*Rij
                     
-                    if(phi[i,j] <> 0.0):
+                    if(self.grid_potential[i,j] != 0.0):
                         sum_norm = sum_norm + Rij*Rij
             sum_norm = sqrt(sum_norm)/(xdim*ydim)
-        
-        self.grid_potential = potential
   
-    
+    def show_grid(self):
+        X,Y = np.meshgrid(range(0,self.size[0]),range(0,self.size[1]))
+        
+        plot.figure(1)
+        p1 = plot.subplot(211)
+        p1.grid(True,linestyle='-',color='0.75')
+        p1.set_xlim([-1,101])
+        p1.set_ylim([-1,101])
+        plot.contour(np.asarray(self.grid_potential))
+        p2=plot.subplot(212)
+        p2.grid(True,linestyle='-',color='0.75')
+        p2.set_xlim([-1,101])
+        p2.set_ylim([-1,101])
+        plot.scatter(pm.x, pm.y, s = pm.mass,c=pm.charge_sign)
+        plot.show()
+
         
     def calculate_forces(self):
         
@@ -247,7 +269,7 @@ class Particles(object):
        
     """
     
-    def __init__(self, box=(500,500), max_charge=25, max_mass=10):
+    def __init__(self, box=(100,100), max_charge=25, max_mass=10):
         self.position = (random()*box[0],random()*box[1])
         self.position0 = self.position
         self.charge = random(-1,1)*max_charge
@@ -287,8 +309,8 @@ fig = plot.figure()
 
 ax = fig.add_subplot(111)
 ax.grid(True,linestyle='-',color='0.75')
-ax.set_xlim([0,500])
-ax.set_ylim([0,500])
+ax.set_xlim([0,101])
+ax.set_ylim([0,101])
 
 scat = plot.scatter(pm.x, pm.y, s = pm.mass,c=pm.charge_sign)
 anim = animation.FuncAnimation(fig,update_plot,fargs=(scat,pm))
